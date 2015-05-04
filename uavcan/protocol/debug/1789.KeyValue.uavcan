@@ -1,0 +1,8 @@
+#
+# Generic named parameter (key/value pair).
+#
+
+bool alignment
+uint8[<=100] key
+
+float64[<=1] value
