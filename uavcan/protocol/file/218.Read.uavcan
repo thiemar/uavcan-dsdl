@@ -8,7 +8,7 @@
 # will be returned.
 #
 
-uint32 offset
+uint40 offset
 Path path
 
 ---
